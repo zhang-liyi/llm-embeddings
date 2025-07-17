@@ -12,7 +12,7 @@ to install all packages.
 
 ## Topic Model Experiments
 
-Navigate to the `topic-model` folder
+Navigate to the `topic-model` folder.
 
 ### Synthetic Datasets
 
