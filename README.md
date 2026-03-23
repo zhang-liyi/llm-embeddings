@@ -70,6 +70,3 @@ TV (0.09353910938242878, 0.0016413592056654096)
 ```
 The first line in each block describes the model and parameter settings. Each other line describes results measured by one metric, with (mean, std).
 
-## Other Exchangeable Distributions and HMM
-
-Navigate to rest-of-dist. This section of ReadME is under development.
